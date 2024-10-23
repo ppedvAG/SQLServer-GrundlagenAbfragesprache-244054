@@ -70,6 +70,18 @@
           <AssociatedConnUserName />
           <FullPath>08_Join.sql</FullPath>
         </FileNode>
+        <FileNode Name="09_Aggregate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_Aggregate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10_Views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10_Views.sql</FullPath>
+        </FileNode>
         <FileNode Name="Z_instnwnd.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
