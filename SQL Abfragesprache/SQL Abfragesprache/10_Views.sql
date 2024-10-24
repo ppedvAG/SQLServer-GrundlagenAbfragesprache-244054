@@ -53,7 +53,7 @@ SELECT
 		, od.UnitPrice, od.Quantity, od.ProductID		--order detailsspalten
 		, (od.UnitPrice * od.Quantity)as PosSumme       --berechnete Spalte
 		, p.ProductName									--Produktspalten
-		, e.LastName, e.FirstName						--employeesspalten
+		, e.LastName, e.FirstName, e.EmployeeID			--employeesspalten
 FROM
 	CUSTOMERS C INNER JOIN ORDERS O			  ON C.CUSTOMERID = O.CUSTOMERID
 				INNER JOIN [ORDER DETAILS] OD ON OD.ORDERID   = O.ORDERID
