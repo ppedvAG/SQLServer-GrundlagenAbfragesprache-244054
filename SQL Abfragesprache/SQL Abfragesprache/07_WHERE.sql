@@ -93,6 +93,11 @@ where
 	city = 'Berlin' or city = 'London'
 
 
+select * from customers
+where
+	city in ('Berlin' , 'London')
+
+
 ---Alle Bestellungen, deren Frachtkosten unter 10 liegen
 ---und vom Angestellten Nr 2 bearbeitet wurden
 

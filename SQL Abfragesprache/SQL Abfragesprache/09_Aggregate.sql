@@ -142,3 +142,28 @@ order by
 
 
 
+select shipcountry, shipcity, sum(freight) as Fracht
+from orders
+group by shipcountry, shipcity with cube order by 1,2,3 --jede Variation
+--162
+
+select shipcountry, shipcity, sum(freight) as Fracht
+from orders
+group by shipcountry, shipcity with rollup order by 1,2,3
+--92   Varianten je nach Hierarchiv
+
+
+select shipcountry, shipcity, sum(freight) as Fracht
+from orders
+group by shipcountry, shipcity order by 1,2,3
+--70
+
+select shipcountry, shipcity, sum(freight) as Fracht
+into #FrachtStst from orders
+group by shipcountry, shipcity
+
+select * from #FrachtStst
+
+select * into #sicht from kundeumsatz
+
+

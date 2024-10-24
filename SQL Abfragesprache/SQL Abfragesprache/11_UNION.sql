@@ -9,6 +9,8 @@
 --will man dopplete Zeilen nicht elimnieren
 --dann UNION ALL
 
+--UNION ist ein! SELECT
+
 
 select 100
 UNION
