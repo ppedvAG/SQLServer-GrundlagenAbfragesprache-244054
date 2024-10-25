@@ -94,11 +94,53 @@
           <AssociatedConnUserName />
           <FullPath>12_LeftRight_Join.sql</FullPath>
         </FileNode>
+        <FileNode Name="13_Unterabfragen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13_Unterabfragen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14_temporäre Tabellen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14_temporäre Tabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15_CASE_WHEN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15_CASE_WHEN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16_CREATE TAB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16_CREATE TAB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17_INS_UP_DEL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17_INS_UP_DEL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_Variablen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18_Variablen.sql</FullPath>
+        </FileNode>
         <FileNode Name="Recap Joins.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Recap Joins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Recap UNION EXC_INTER_AGG.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Recap UNION EXC_INTER_AGG.sql</FullPath>
         </FileNode>
         <FileNode Name="Z_instnwnd.sql">
           <AssociatedConnectionMoniker />
